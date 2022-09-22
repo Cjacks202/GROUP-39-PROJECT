@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "GROUP 39 CLOUDS CELL GROUP PROJECT"
